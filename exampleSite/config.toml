@@ -16,6 +16,7 @@ paginate = 5
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
+    github = ""
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
