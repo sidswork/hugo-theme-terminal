@@ -74,6 +74,8 @@ A custom syntax highlighting based on PrismJS. All you need to do is to wrap you
 
 **Supported languages**: bash/shell, css, clike, javascript, apacheconf, actionscript, applescript, c, csharp, cpp, coffeescript, ruby, csp, css-extras, diff, django, docker, elixir, elm, markup-templating, erlang, fsharp, flow, git, go, graphql, less, handlebars, haskell, http, java, json, kotlin, latex, markdown, makefile, objectivec, ocaml, perl, php, php-extras, r, sql, processing, scss, python, jsx, typescript, toml, reason, textile, rust, sass, stylus, scheme, pug, swift, yaml, haml, twig, tsx, vim, visual-basic, wasm.
 
+#### Custom shortcodes
+- **jsfiddle** (prop required: **src**) example usage : `{{< jsfiddle src=//jsfiddle.net/devname/abcdefg/embedded/ >}}`
 ## How to start
 
 You can download the theme manually by going to [https://github.com/panr/hugo-theme-terminal.git](https://github.com/panr/hugo-theme-terminal.git) and pasting it to `themes/terminal` in your root directory.
